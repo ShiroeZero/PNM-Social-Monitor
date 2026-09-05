@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-05T17:07:09.030644+00:00",
+  "generated_at": "2026-09-05T19:19:49.137205+00:00",
   "platform": "YouTube",
-  "query_cursor": 8,
+  "query_cursor": 0,
   "query_batch_size": 3,
   "query_success": 3,
   "query_skipped": 0,
   "quota_warning": false,
   "quota_block_date": null,
-  "total": 1117,
+  "total": 1119,
   "new_videos": 2,
   "statistics": {
-    "total": 1117,
+    "total": 1119,
     "jatim": 77,
     "negative": 404,
     "incident": 34,
     "case": 163,
-    "neutral": 463,
+    "neutral": 465,
     "noise": 9,
     "high_priority": 202
   },
@@ -1244,7 +1244,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "b605e2e0fab632ebe44fad21604e5242c6641da5",
@@ -1368,7 +1368,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "b91eacc4a779fc6abc4c13069d42a3a9a704cbf0",
@@ -1392,7 +1392,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "42d5793c1eccca9c6210916c17937760f0edd05e",
@@ -1416,7 +1416,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "medium",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "7d7ff473de58de5e197fa9c847b7e407726697fe",
@@ -1512,7 +1512,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "high",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "c8d75fe1a79154b6c4ff3d928a09e90a5aeed224",
@@ -1587,7 +1587,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "4415dd798b9b0b868d72d85faa89fdfee04b78a4",
@@ -2041,7 +2041,7 @@
         "LUAR:semarang"
       ],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "fae5785c486d69f2ef9051a92c61d8e7124fe1be",
@@ -2142,7 +2142,7 @@
         "LUAR:semarang"
       ],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "22ff6cf15a33e86f8b4bcb256d32ecf956067e77",
@@ -2214,7 +2214,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "31bcca6748146ed0ff8f63fab7c28162cbef549b",
@@ -2264,7 +2264,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "12b0f9c9524f257115851690332a46716b4d5c62",
@@ -2410,7 +2410,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "medium",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "2c86556d7b230596e23c0f68b504d8cf0b738244",
@@ -2554,7 +2554,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "ad61e166d2f21bdc08dcaf704ba51379d07447df",
@@ -2604,7 +2604,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "6b73b8ef1ec32661f9367e13e17fcb1753ec9f11",
@@ -2871,7 +2871,31 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
+    },
+    {
+      "id": "93d6a7688eef7578cdb457473e89f6be0081c33e",
+      "video_id": "Kp55YogTgG8",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "🔴 Polisi Tangkap Pelaku Pembunuhan Wanita yang Jasadnya Terbakar di Pos Ronda Demak",
+      "channel": "TribunnewsWIKI Official",
+      "published_at": "2026-09-04T03:23:11Z",
+      "url": "https://www.youtube.com/watch?v=Kp55YogTgG8",
+      "thumbnail": "https://i.ytimg.com/vi/Kp55YogTgG8/hqdefault.jpg",
+      "description": "Download aplikasi berita TribunX di Play Store atau App Store untuk dapatkan pengalaman baru TRIBUN-VIDEO.COM - Polisi ...",
+      "relevance": "medium",
+      "scope": "neutral",
+      "category": "Berita Polisi Lainnya",
+      "classification_score": 25,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "low",
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "24067366bf142dc91dcb51d9d5b92b619268e5e4",
@@ -2919,7 +2943,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "medium",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "d3219d37bda9ecc0c1b9e994783ff308c9300b6e",
@@ -2967,7 +2991,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "a119edb54cf984413496663e93568b4532237515",
@@ -3042,6 +3066,30 @@
       "collected_at": "2026-09-05T10:54:50.202726+00:00"
     },
     {
+      "id": "c490d62b070576719fb4145cd3ed2fbf219116dc",
+      "video_id": "IS8fGzhlZhE",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "&quot;경찰이 무차별적 폭력을...&quot; 직접 증언 나선 노동자의 절규 [현장영상]",
+      "channel": "오마이TV",
+      "published_at": "2026-09-04T02:44:35Z",
+      "url": "https://www.youtube.com/watch?v=IS8fGzhlZhE",
+      "thumbnail": "https://i.ytimg.com/vi/IS8fGzhlZhE/hqdefault.jpg",
+      "description": "방송 비정규직 노동자 12명이 전날(3일) 노동법 적용 확대 등을 요구하는 기자회견 등을 진행하다가 경찰에 체포됐다 석방된 가운데, ...",
+      "relevance": "low",
+      "scope": "neutral",
+      "category": "Tidak Relevan",
+      "classification_score": 0,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "low",
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
+    },
+    {
       "id": "05d473b86adacc2226275c76039db809da765cac",
       "video_id": "zm4K268Wxnw",
       "platform": "YouTube",
@@ -3111,7 +3159,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "12ddfb208bcda0d73b692b89c9a96af65c02f9e1",
@@ -3331,7 +3379,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T06:03:12.888699+00:00"
+      "collected_at": "2026-09-05T19:19:49.137205+00:00"
     },
     {
       "id": "14ef9dcb0caea73515c5dba1fed66cbb6442671e",
