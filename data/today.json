@@ -2,22 +2,91 @@
   "schema_version": "today-v3",
   "date": "2026-09-06",
   "timezone": "Asia/Jakarta",
-  "updated_at": "2026-09-06T02:19:50.127015+07:00",
-  "last_successful_update": "2026-09-06T02:19:50.127015+07:00",
+  "updated_at": "2026-09-06T04:33:38.874222+07:00",
+  "last_successful_update": "2026-09-06T04:33:38.874222+07:00",
   "news": {
-    "detected": 2,
+    "detected": 3,
     "negative": 2,
     "positive": 0,
     "case": 0,
-    "neutral": 0,
-    "jatim": 0,
+    "neutral": 1,
+    "jatim": 1,
     "luar_jatim": 2,
     "priority_high": 0,
     "article_ids": [
+      "1b697c4abea168a4a9572af4dfcad51ebf3e94e5",
       "5b59b26d6cd474f3761ee51f332345b8ae2bb62d",
       "f7619b193b29df30243fb4c330c71fa97f412f11"
     ],
     "items": [
+      {
+        "id": "1b697c4abea168a4a9572af4dfcad51ebf3e94e5",
+        "title": "Cegah Kecelakaan, Polres Pelabuhan Tanjung Perak Gelar Ramp Check Bus Peziarah di Sunan Ampel - tribratanews.polrespasuruankota.com",
+        "url": "https://tribratanews.polrespasuruankota.com/2026/09/05/cegah-kecelakaan-polres-pelabuhan-tanjung-perak-gelar-ramp-check-bus-peziarah-di-sunan-ampel/",
+        "source": "tribratanews.polrespasuruankota.com",
+        "published_at": "2026-09-05T20:06:59+00:00",
+        "collected_at": "2026-09-05T21:16:57.422082+00:00",
+        "region": "Jawa Timur",
+        "area_label": "Surabaya",
+        "is_jatim": true,
+        "polres": "POLRES PELABUHAN TANJUNG PERAK",
+        "category": "NETRAL / LAINNYA",
+        "scope": "neutral",
+        "scope_label": "Netral",
+        "priority": "low",
+        "summary": "Cegah Kecelakaan, Polres Pelabuhan Tanjung Perak Gelar Ramp Check Bus Peziarah di Sunan Ampel tribratanews.polrespasuruankota.com",
+        "processing_status": "processed",
+        "classifier_version": "news-v6",
+        "classified_at": "2026-09-05T21:16:57.422082+00:00",
+        "case_id": null,
+        "discovery_families": [],
+        "discovery_tags": [],
+        "discovery_hits": [],
+        "discovery_version": "discovery-v6.5.4",
+        "google_news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZERWbF9adERROUhoWDJ3NEJjOTNGVVNnV0pHSnhWLU55ODBnZmRBeTAwSjVVZkE3RUd2X2ZkS0ZkNFJlaWc0a3JPYnlma3l0Rm5lT1FCZ3c5Y2plTDFYaHZfbkpUNXlZSlRKU0tXUlZUM1B2UlMxWVZCVVJWSGY1cF9wVXRuak9ybDNVVDRrRndDSkJSV3ltbGgyYUNIdVpwTm44SjJTOHllUUtPVFd5a0N0bWg3elZ2UlRudzBMMVhmTWstMU1aalR2SG82RGRoMDZ1NXpWak11R0FKbXgxaWdB?oc=5",
+        "original_url": "https://tribratanews.polrespasuruankota.com/2026/09/05/cegah-kecelakaan-polres-pelabuhan-tanjung-perak-gelar-ramp-check-bus-peziarah-di-sunan-ampel/",
+        "locality": "Surabaya",
+        "polsek": null,
+        "location_confidence": 100,
+        "location_evidence": [
+          "polres pelabuhan tanjung perak",
+          "Surabaya"
+        ],
+        "location_status": "JAWA_TIMUR",
+        "location_source": "title",
+        "issue_type": "UMUM",
+        "issue_subtype": "Belum Teridentifikasi",
+        "issue_evidence": [],
+        "handling_status": "BELUM_ADA_INFORMASI",
+        "handling_evidence": [],
+        "attention_score": 7,
+        "attention_label": "Rendah",
+        "attention_components": {
+          "severity": 2,
+          "polri_relation": 0,
+          "authority": 0,
+          "public_impact": 4,
+          "handling": 0,
+          "evidence": 1,
+          "context_risk": 0,
+          "routine_enforcement_cap": null
+        },
+        "attention_evidence": {
+          "severity": [],
+          "authority": [],
+          "public_impact": [],
+          "evidence": [
+            "satu sumber / informasi awal"
+          ],
+          "role": [],
+          "issue": [],
+          "handling": [],
+          "context": [],
+          "positive": []
+        },
+        "case_engine_version": "case-v6.5.4",
+        "case_processed_at": "2026-09-05T21:23:26.072235+00:00"
+      },
       {
         "id": "5b59b26d6cd474f3761ee51f332345b8ae2bb62d",
         "title": "Polisi Bongkar Jaringan Joker Malaysia di Makassar, Sita Sabu-Ekstasi - CNN Indonesia",
@@ -89,7 +158,7 @@
           "positive": []
         },
         "case_engine_version": "case-v6.5.4",
-        "case_processed_at": "2026-09-05T19:19:48.780113+00:00"
+        "case_processed_at": "2026-09-05T21:33:37.351348+00:00"
       },
       {
         "id": "f7619b193b29df30243fb4c330c71fa97f412f11",
@@ -158,10 +227,79 @@
           "positive": []
         },
         "case_engine_version": "case-v6.5.4",
-        "case_processed_at": "2026-09-05T19:19:48.780117+00:00"
+        "case_processed_at": "2026-09-05T21:33:37.351354+00:00"
       }
     ],
-    "jatim_items": [],
+    "jatim_items": [
+      {
+        "id": "1b697c4abea168a4a9572af4dfcad51ebf3e94e5",
+        "title": "Cegah Kecelakaan, Polres Pelabuhan Tanjung Perak Gelar Ramp Check Bus Peziarah di Sunan Ampel - tribratanews.polrespasuruankota.com",
+        "url": "https://tribratanews.polrespasuruankota.com/2026/09/05/cegah-kecelakaan-polres-pelabuhan-tanjung-perak-gelar-ramp-check-bus-peziarah-di-sunan-ampel/",
+        "source": "tribratanews.polrespasuruankota.com",
+        "published_at": "2026-09-05T20:06:59+00:00",
+        "collected_at": "2026-09-05T21:16:57.422082+00:00",
+        "region": "Jawa Timur",
+        "area_label": "Surabaya",
+        "is_jatim": true,
+        "polres": "POLRES PELABUHAN TANJUNG PERAK",
+        "category": "NETRAL / LAINNYA",
+        "scope": "neutral",
+        "scope_label": "Netral",
+        "priority": "low",
+        "summary": "Cegah Kecelakaan, Polres Pelabuhan Tanjung Perak Gelar Ramp Check Bus Peziarah di Sunan Ampel tribratanews.polrespasuruankota.com",
+        "processing_status": "processed",
+        "classifier_version": "news-v6",
+        "classified_at": "2026-09-05T21:16:57.422082+00:00",
+        "case_id": null,
+        "discovery_families": [],
+        "discovery_tags": [],
+        "discovery_hits": [],
+        "discovery_version": "discovery-v6.5.4",
+        "google_news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZERWbF9adERROUhoWDJ3NEJjOTNGVVNnV0pHSnhWLU55ODBnZmRBeTAwSjVVZkE3RUd2X2ZkS0ZkNFJlaWc0a3JPYnlma3l0Rm5lT1FCZ3c5Y2plTDFYaHZfbkpUNXlZSlRKU0tXUlZUM1B2UlMxWVZCVVJWSGY1cF9wVXRuak9ybDNVVDRrRndDSkJSV3ltbGgyYUNIdVpwTm44SjJTOHllUUtPVFd5a0N0bWg3elZ2UlRudzBMMVhmTWstMU1aalR2SG82RGRoMDZ1NXpWak11R0FKbXgxaWdB?oc=5",
+        "original_url": "https://tribratanews.polrespasuruankota.com/2026/09/05/cegah-kecelakaan-polres-pelabuhan-tanjung-perak-gelar-ramp-check-bus-peziarah-di-sunan-ampel/",
+        "locality": "Surabaya",
+        "polsek": null,
+        "location_confidence": 100,
+        "location_evidence": [
+          "polres pelabuhan tanjung perak",
+          "Surabaya"
+        ],
+        "location_status": "JAWA_TIMUR",
+        "location_source": "title",
+        "issue_type": "UMUM",
+        "issue_subtype": "Belum Teridentifikasi",
+        "issue_evidence": [],
+        "handling_status": "BELUM_ADA_INFORMASI",
+        "handling_evidence": [],
+        "attention_score": 7,
+        "attention_label": "Rendah",
+        "attention_components": {
+          "severity": 2,
+          "polri_relation": 0,
+          "authority": 0,
+          "public_impact": 4,
+          "handling": 0,
+          "evidence": 1,
+          "context_risk": 0,
+          "routine_enforcement_cap": null
+        },
+        "attention_evidence": {
+          "severity": [],
+          "authority": [],
+          "public_impact": [],
+          "evidence": [
+            "satu sumber / informasi awal"
+          ],
+          "role": [],
+          "issue": [],
+          "handling": [],
+          "context": [],
+          "positive": []
+        },
+        "case_engine_version": "case-v6.5.4",
+        "case_processed_at": "2026-09-05T21:23:26.072235+00:00"
+      }
+    ],
     "luar_jatim_items": [
       {
         "id": "5b59b26d6cd474f3761ee51f332345b8ae2bb62d",
@@ -234,7 +372,7 @@
           "positive": []
         },
         "case_engine_version": "case-v6.5.4",
-        "case_processed_at": "2026-09-05T19:19:48.780113+00:00"
+        "case_processed_at": "2026-09-05T21:33:37.351348+00:00"
       },
       {
         "id": "f7619b193b29df30243fb4c330c71fa97f412f11",
@@ -303,7 +441,7 @@
           "positive": []
         },
         "case_engine_version": "case-v6.5.4",
-        "case_processed_at": "2026-09-05T19:19:48.780117+00:00"
+        "case_processed_at": "2026-09-05T21:33:37.351354+00:00"
       }
     ]
   },
@@ -395,7 +533,7 @@
         ],
         "article_count": 1,
         "created_at": "2026-09-05T19:17:54.338124+00:00",
-        "updated_at": "2026-09-05T19:19:48.776529+00:00",
+        "updated_at": "2026-09-05T21:33:37.347678+00:00",
         "engine_version": "case-v6.5.4",
         "priority_score": 19,
         "priority_breakdown": {
@@ -500,7 +638,7 @@
         ],
         "article_count": 1,
         "created_at": "2026-09-05T19:17:54.661887+00:00",
-        "updated_at": "2026-09-05T19:19:48.779641+00:00",
+        "updated_at": "2026-09-05T21:33:37.350787+00:00",
         "engine_version": "case-v6.5.4",
         "priority_score": 17,
         "priority_breakdown": {
@@ -535,26 +673,65 @@
     "jatim_items": []
   },
   "social": {
-    "detected": 27,
-    "jatim": 1,
-    "negative": 7,
-    "priority_high": 4,
+    "detected": 70,
+    "jatim": 2,
+    "negative": 22,
+    "priority_high": 6,
     "video_ids": [
+      "y6LRj_gsA5s",
+      "dIHRQ8zKjyo",
+      "1nqnJJBIoaM",
+      "dtFUFnKDawc",
+      "aNp4vk5MXgA",
+      "lPd9Aax29ss",
+      "sQth7ona_YM",
+      "0PN_5ol8_rA",
+      "3LgtU3-C6PE",
+      "9C8j6E9Zaas",
+      "sd86SJksmKw",
+      "OYkBpnkNJiI",
+      "XsNLJpTX1j4",
+      "cfXGP3maWAw",
       "KnfN46ZPRso",
+      "WF8zaQb6a0k",
+      "79GP7W76PFs",
+      "LwKeae2Fcxc",
+      "plHqAhFvkC4",
+      "bXIo_wdlsRM",
+      "UX3A-dHB560",
       "5pcj1jdqRGg",
+      "izh1d5xpbXQ",
+      "4_7EQvf1yCI",
+      "EVc3JcrylL4",
+      "_NUUu7nmXdg",
+      "E9DbLMDef2c",
+      "6FgKjbcxoB8",
+      "tOsFNqhB30s",
+      "KMT-GWYu9_I",
+      "4x0jMqm-bL8",
+      "4JFGhRLpPuQ",
       "rG5viuDAV5Q",
+      "aHjWqKA_0Vo",
       "nAqd7xO6sgY",
       "5GfKFOvReKA",
       "-fSbb-4yn7w",
       "jGva_ZAvgZ0",
       "Wtk6t68qo0o",
+      "ctmh7Ao3ATs",
       "cKE5iylvTUw",
       "vdB7q2YOeds",
+      "cu6jYlOqdTE",
+      "B4htu-xf4n8",
+      "9WH14FNU9Q0",
       "a_yN980CSEM",
       "Bcw_M2kotQI",
+      "V3pRVRn_V5Q",
       "oDMnIHjJhLQ",
       "VQ6JBD2ArD4",
+      "YX6dMz8_L8w",
+      "9GxzdyXUU1o",
       "KskU6KXEufQ",
+      "fEl6DnfjLUY",
       "VwBptpA7oyA",
       "rt9CLm-PH6c",
       "SsbMZm9ioAk",
@@ -562,41 +739,60 @@
       "Kp55YogTgG8",
       "sm3ouXgZKng",
       "m_6pNzz8sAU",
+      "7QZdvldTYh8",
       "IS8fGzhlZhE",
       "zm4K268Wxnw",
       "63-V30zeH0Y",
       "U1lLuVSLGPM",
+      "ACfZrQJlRz8",
+      "BUK7eEBTKWM",
+      "NjGi_-aaqfc",
       "33Rv59tu4cE"
     ]
   },
   "jatim": {
-    "news_today": 0,
+    "news_today": 1,
     "negative_today": 0,
     "positive_today": 0,
     "case_scope_today": 0,
-    "neutral_today": 0,
+    "neutral_today": 1,
     "case_today": 0,
     "case_high_active": 0,
     "article_high_today": 0,
     "outside_jatim_today": 2
   },
-  "regions": [],
-  "polres": [],
-  "categories": [],
+  "regions": [
+    {
+      "name": "Surabaya",
+      "count": 1
+    }
+  ],
+  "polres": [
+    {
+      "name": "POLRES PELABUHAN TANJUNG PERAK",
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "NETRAL / LAINNYA",
+      "count": 1
+    }
+  ],
   "summary": {
-    "news_today": 2,
+    "news_today": 3,
     "negative_today": 2,
     "cases_today": 2,
     "priority_high": 0,
     "article_priority_high": 0,
-    "jatim_news": 0,
+    "jatim_news": 1,
     "jatim_negative": 0,
     "jatim_positive": 0,
     "jatim_case_scope": 0,
-    "jatim_neutral": 0,
+    "jatim_neutral": 1,
     "jatim_cases_today": 0,
     "jatim_case_high_active": 0,
     "luar_jatim_news": 2,
-    "youtube_today": 27
+    "youtube_today": 70
   }
 }

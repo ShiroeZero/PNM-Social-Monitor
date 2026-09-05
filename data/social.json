@@ -1,25 +1,147 @@
 {
-  "generated_at": "2026-09-05T19:19:49.137205+00:00",
+  "generated_at": "2026-09-05T21:33:37.709947+00:00",
   "platform": "YouTube",
-  "query_cursor": 0,
+  "query_cursor": 3,
   "query_batch_size": 3,
   "query_success": 3,
   "query_skipped": 0,
   "quota_warning": false,
   "quota_block_date": null,
-  "total": 1119,
-  "new_videos": 2,
+  "total": 1127,
+  "new_videos": 8,
   "statistics": {
-    "total": 1119,
+    "total": 1127,
     "jatim": 77,
-    "negative": 404,
+    "negative": 407,
     "incident": 34,
-    "case": 163,
-    "neutral": 465,
+    "case": 165,
+    "neutral": 468,
     "noise": 9,
-    "high_priority": 202
+    "high_priority": 203
   },
   "items": [
+    {
+      "id": "d7de97bf84ba8eee10f6f743b267ade79226b441",
+      "video_id": "y6LRj_gsA5s",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "Dua Bulan Buron, Pelaku Penganiaya Seorang Perempuan di Kompleks Kijang Mas Ditangkap Polisi",
+      "channel": "Radar Banjarmasin",
+      "published_at": "2026-09-05T16:16:23Z",
+      "url": "https://www.youtube.com/watch?v=y6LRj_gsA5s",
+      "thumbnail": "https://i.ytimg.com/vi/y6LRj_gsA5s/hqdefault.jpg",
+      "description": "Setelah hampir dua setengah bulan menjadi buronan, S (44), pelaku penganiayaan terhadap seorang perempuan berusia 22 ...",
+      "relevance": "high",
+      "scope": "negative",
+      "category": "Kekerasan / Penganiayaan",
+      "classification_score": 100,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "medium",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
+    {
+      "id": "039e3cd91f18a185c2a50238586004f40f406555",
+      "video_id": "dIHRQ8zKjyo",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "12 Warga HST Ditangkap, Polisi Sita 118,31 Gram Sabu",
+      "channel": "Radar Banjarmasin",
+      "published_at": "2026-09-05T15:40:51Z",
+      "url": "https://www.youtube.com/watch?v=dIHRQ8zKjyo",
+      "thumbnail": "https://i.ytimg.com/vi/dIHRQ8zKjyo/hqdefault.jpg",
+      "description": "Polres Hulu Sungai Tengah (Polres HST) mengungkap 11 kasus narkotika sepanjang Agustus 2026. Sebanyak 12 tersangka ...",
+      "relevance": "high",
+      "scope": "negative",
+      "category": "Oknum / Narkoba",
+      "classification_score": 100,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "high",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
+    {
+      "id": "7b6eefcd9c0b46d3f6759a43896e87d8a55338e9",
+      "video_id": "1nqnJJBIoaM",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "Seorang oknum wartawan berinisial G (27) ditangkap polisi setelah diduga melakukan pemalakan",
+      "channel": "nama dalam doa",
+      "published_at": "2026-09-05T15:23:42Z",
+      "url": "https://www.youtube.com/watch?v=1nqnJJBIoaM",
+      "thumbnail": "https://i.ytimg.com/vi/1nqnJJBIoaM/hqdefault.jpg",
+      "description": "",
+      "relevance": "high",
+      "scope": "negative",
+      "category": "Oknum / Pelanggaran Anggota",
+      "classification_score": 100,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "medium",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
+    {
+      "id": "1081f7fddd25414f7040e3743767bfbcf8547afd",
+      "video_id": "dtFUFnKDawc",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "Pembunuh Mozza Ditangkap! Polisi Ungkap Motif Cemburu di Balik Kematian Remaja Semarang | Snapnews",
+      "channel": "Okezone",
+      "published_at": "2026-09-05T15:00:25Z",
+      "url": "https://www.youtube.com/watch?v=dtFUFnKDawc",
+      "thumbnail": "https://i.ytimg.com/vi/dtFUFnKDawc/hqdefault.jpg",
+      "description": "Polrestabes Semarang menangkap MVD, tersangka pembunuhan terhadap remaja perempuan bernama Mozza. Kerangka ...",
+      "relevance": "high",
+      "scope": "case",
+      "category": "Ungkap Kasus",
+      "classification_score": 60,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": "outside",
+      "location_evidence": [
+        "LUAR:semarang"
+      ],
+      "priority": "low",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
+    {
+      "id": "352936d79d70cc644111ef14bbcea9c4849d584c",
+      "video_id": "aNp4vk5MXgA",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "OMG!! Pamela Ditangkap Polisi?! | Wajah Cinta Yang Lain - Episode 62",
+      "channel": "Surya Citra Televisi (SCTV)",
+      "published_at": "2026-09-05T14:14:01Z",
+      "url": "https://www.youtube.com/watch?v=aNp4vk5MXgA",
+      "thumbnail": "https://i.ytimg.com/vi/aNp4vk5MXgA/hqdefault.jpg",
+      "description": "Tonton full tayangan SCTV klik di sini ...",
+      "relevance": "high",
+      "scope": "case",
+      "category": "Ungkap Kasus",
+      "classification_score": 60,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "low",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
     {
       "id": "dd58a8840df65582d469dfbf202a52a8de21b4d6",
       "video_id": "lPd9Aax29ss",
@@ -42,7 +164,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "a4aec80bb2a8cdda2ed366b671b25903502ace14",
@@ -66,7 +188,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "bb2cf6492f514b8e5602879df7778370d759b2de",
@@ -90,7 +212,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "bd45d19247e23feb26e09f229550744cd7a2f74e",
@@ -162,7 +284,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "medium",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "5a85c0a6879eee1a2e549ea5e0704e1a5744a757",
@@ -212,7 +334,7 @@
         "LUAR:bandung"
       ],
       "priority": "medium",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "9db1dd7461f9d1927e78e1601b4685b35db2005e",
@@ -264,7 +386,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "5d65d2fe39ddef03464154828b5519d10d334ff4",
@@ -288,7 +410,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "f6eaff8fa9c598bee7180f6a3aca961299174bab",
@@ -363,6 +485,30 @@
       "collected_at": "2026-09-05T14:08:20.035384+00:00"
     },
     {
+      "id": "addf8881e687e5afb1fd146790363224c079d141",
+      "video_id": "XsNLJpTX1j4",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "[자막뉴스] 실탄 반출 사고 또? 사격 훈련장서 실탄 3발 반출…현직 경찰관 수사 / KBS 2026.09.05.",
+      "channel": "KBS News",
+      "published_at": "2026-09-05T09:00:33Z",
+      "url": "https://www.youtube.com/watch?v=XsNLJpTX1j4",
+      "thumbnail": "https://i.ytimg.com/vi/XsNLJpTX1j4/hqdefault.jpg",
+      "description": "오전 9시 반쯤 전북 정읍경찰서 실내 사격장에서 정례 사격 훈련에 참여한 50대 A 경감. 경찰 지구대에 근무하는 A 경감은 훈련 뒤 실탄 ...",
+      "relevance": "low",
+      "scope": "neutral",
+      "category": "Tidak Relevan",
+      "classification_score": 0,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "low",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
+    {
       "id": "6ac8801306296460a238b960bb8815b8923f88eb",
       "video_id": "GGFfdNXKsTI",
       "platform": "YouTube",
@@ -411,7 +557,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "27cef52a3a499a763a965f008d100ed17d9f649f",
@@ -483,7 +629,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "baf5ce6d9e2191fd5b0fc004861b6158a8913dd9",
@@ -507,7 +653,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "d284dccfeb15468240a9e00151ef4d0b643f9d1b",
@@ -562,7 +708,7 @@
         "madura"
       ],
       "priority": "high",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "013eb1bc9bdfa07f7bc5042a1cbf31e9be8ce916",
@@ -588,7 +734,7 @@
         "LUAR:jawa barat"
       ],
       "priority": "medium",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "b59d63bcf690148745c67504f71a961e5eb4b8ae",
@@ -612,7 +758,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "ee2a38cb90a2837b4625c7e2559fc2567efab8f6",
@@ -660,7 +806,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "498b09903dcac6391b0ec9d3160bdf7b8ae9158c",
@@ -708,7 +854,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "high",
-      "collected_at": "2026-09-05T17:07:09.030644+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "63ea0625db6747e872e0a9bef72ad2150dc111f2",
@@ -732,7 +878,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "16be7088288341122bd2fed31b0446107b022b27",
@@ -756,7 +902,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "medium",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "b8f73010aee5a1a3844a1c846304f6abd9e74fc3",
@@ -780,7 +926,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "eea8b92eec4e86a779fb8c05050f2e58e25eb245",
@@ -804,7 +950,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "1c77afcfa26f5104028142c31dd55695e8a9e588",
@@ -830,7 +976,31 @@
         "LUAR:jawa barat"
       ],
       "priority": "medium",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
+    {
+      "id": "8c381f2c7af2ea8e4a094352e953c05c238a9c34",
+      "video_id": "6FgKjbcxoB8",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "Man arrested after police discover explosives",
+      "channel": "WSAZ NewsChannel 3",
+      "published_at": "2026-09-05T04:24:23Z",
+      "url": "https://www.youtube.com/watch?v=6FgKjbcxoB8",
+      "thumbnail": "https://i.ytimg.com/vi/6FgKjbcxoB8/hqdefault.jpg",
+      "description": "A man was arrested Thursday in Paintsville, Kentucky, after police discovered apparent explosives. For more Local News from ...",
+      "relevance": "low",
+      "scope": "neutral",
+      "category": "Tidak Relevan",
+      "classification_score": 0,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "low",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "a5cab22791e0c5430e588567425b60b46f608b14",
@@ -854,7 +1024,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T14:08:20.035384+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "f6b663905d083962586ffad8d0dde3a9c4bb7c72",
@@ -1073,7 +1243,31 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
+    },
+    {
+      "id": "5f44de7df7916f5278e04cdd15a640d1ad026b6e",
+      "video_id": "4x0jMqm-bL8",
+      "platform": "YouTube",
+      "type": "video",
+      "title": "Columbus covers Flock cameras as officer is probed for alleged license plate reader misuse",
+      "channel": "WSYX ABC 6",
+      "published_at": "2026-09-04T21:25:02Z",
+      "url": "https://www.youtube.com/watch?v=4x0jMqm-bL8",
+      "thumbnail": "https://i.ytimg.com/vi/4x0jMqm-bL8/hqdefault.jpg",
+      "description": "License plate reader cameras across Columbus have been covered as the city investigates allegations that a police officer ...",
+      "relevance": "low",
+      "scope": "neutral",
+      "category": "Tidak Relevan",
+      "classification_score": 0,
+      "is_jatim": false,
+      "region": "Indonesia",
+      "polres": null,
+      "location_confidence": 0,
+      "location_source": null,
+      "location_evidence": [],
+      "priority": "low",
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "a6bbfae969ef3f68f88e9cd7880266e09e43247f",
@@ -1193,7 +1387,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "a76d1f5873eb3b8c9fd70cd13bec3d70a3fab6e4",
@@ -1296,7 +1490,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "30016c0e7e003c31fd38357bba517e074313e7eb",
@@ -1536,7 +1730,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "5f4937f5e6ab5206de03645c3b16967ef115f0e4",
@@ -1563,7 +1757,7 @@
         "surabaya"
       ],
       "priority": "high",
-      "collected_at": "2026-09-05T17:07:09.030644+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "9cc357676b3c16e493e6c8a330e555a30ac47b62",
@@ -1611,7 +1805,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "4a07abaa7d97a8d956da786be754187ab1eff14f",
@@ -1659,7 +1853,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "b776e438b1ab64d26f6cc191347a17109d72410e",
@@ -1707,7 +1901,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "03ce79525b8bf66072cf80e79606e2768ff7bc4e",
@@ -2190,7 +2384,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "ce63a3a5c0d70a52627d7da61b900ad18ea9bde3",
@@ -2338,7 +2532,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "66fb1a34220b3c2b5f48c29f29df09e8bd4eece2",
@@ -2362,7 +2556,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "c992f9864b22988377d6848e09109f4b0f17fa75",
@@ -2434,7 +2628,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "41f5e225cf222c05c03ecd222e65730cc05fe976",
@@ -3063,7 +3257,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "c490d62b070576719fb4145cd3ed2fbf219116dc",
@@ -3183,7 +3377,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "5fe2ea2df23e899c0eb8fd8e6ea8da12aa1bb771",
@@ -3207,7 +3401,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "2add3fed245ef2ff2053bed421f87c093aae6528",
@@ -3281,7 +3475,7 @@
       "location_source": null,
       "location_evidence": [],
       "priority": "low",
-      "collected_at": "2026-09-05T10:54:50.202726+00:00"
+      "collected_at": "2026-09-05T21:33:37.709947+00:00"
     },
     {
       "id": "8ab6ec17d9009adcccad384c9b9e39c355be53c2",
